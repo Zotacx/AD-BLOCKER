@@ -1,7 +1,7 @@
 # AD-Adblocker
 Adblocker (Removes ads from anywhere).
 
-Go to Your Chrome Extensions And Now On Your Developer Option and click Load Unpacked Option.
+Go to Your Chrome Extensions And Now On Your Developer Option and click Load Unpacked.
 Get AD-Adblocker on Your Firefox Extension!
 
 [Download Now!](https://addons.mozilla.org/en-GB/firefox/addon/ad-adblocker/)
